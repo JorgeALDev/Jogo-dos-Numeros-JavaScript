@@ -20,7 +20,7 @@ Usuário tenta acertar número de 1 a 10. Feedback visual e por voz guiam o jogo
 JavaScript (ES6), ResponsiveVoice.js, HTML5, CSS3 (Flexbox, Media Queries)
 
 ## Como Executar  
-1. git clone
+1. git clone https://github.com/JorgeALDev/Jogo-dos-Numeros-JavaScript
 2. Abra index.html no navegador  
 3. Jogue até acertar  
 
